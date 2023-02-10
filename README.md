@@ -8,6 +8,6 @@ Identifying druggable target proteins by biochemical composition
 ## 4.) Suggest Proteins that are incorrectly assigned as nondruggable proteins. 
 ## 5.) Rename files to make for easier readability, explain flow of notebooks in README.
 ## 6.) Look to make dynamic visuals.
-## 6.) Powerpoint Presentation discussing findings.
+## 7.) Powerpoint Presentation discussing findings.
 
 ![FlowChart](https://github.com/nwoyto/Identifying-Druggable-Target-Proteins/blob/main/IDTP%20Flowchart.png)
